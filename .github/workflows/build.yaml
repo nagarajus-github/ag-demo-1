@@ -1,7 +1,7 @@
 name: Build
 
 on:
-  merge:
+  commit:
     branches:
       - main
 
